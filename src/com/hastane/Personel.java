@@ -14,5 +14,9 @@ public class Personel {
     String kurum;
     String birim;
 
+    public Personel(){
+        adres="Ankara";
+        kurum="Şehir Hastanesi";
 
+    }
 }
